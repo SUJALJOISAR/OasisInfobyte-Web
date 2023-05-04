@@ -1,0 +1,145 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+  }
+  
+  .image{
+    height: 250px; 
+    margin-top: 10%;
+  }
+
+  .text {
+    font-size: 20px;
+    padding-left: 20px;
+  }
+
+  .card-img-top1{
+    height:150px;
+  width: 250px;
+  background-color: #555;
+  border-radius: 50%;
+  margin-left: 10%; 
+  margin-top: 10%;
+  }
+
+  .card-img-top2{
+    height:150px;
+  width: 250px;
+  background-color: #555;
+  border-radius: 50%;
+  margin-left: 10%; 
+  margin-top: 10%;
+  }
+
+  .card-img-top3{
+    height:150px;
+  width: 250px;
+  background-color: #555;
+  border-radius: 50%;
+  margin-left: 10%; 
+  margin-top: 10%;
+  }
+
+  .card-title{
+    margin-left: 10%;
+    margin-top: 3%;
+    padding-left: 4%;
+  }
+
+  .carousel-item active{
+    width: 1550px; 
+    height: 550px;
+  }
+
+  .text{
+    padding-left: 10%; 
+    padding-top: 10%;
+  }
+
+  .successbutt{
+    margin-top: 10%;
+  }
+
+  #firstsuccessbutt{
+    border-radius: 20px; 
+    margin:10px; 
+    display: inline-block; 
+    padding-left: 5%; 
+    padding-right: 5%; 
+    padding-top: 2%; 
+    padding-bottom: 2%;
+  }
+
+  #secondtext{
+    padding-right: 10%;
+  }
+  
+  #thirdtext{
+    padding-left: 10%;
+  }
+
+  #secondsuccessbutt{
+    margin-top: 10%;
+  }
+
+  #fourthsuccessbutt{
+    border-radius: 20px; 
+    margin:10px; 
+    display: inline-block; 
+    padding-left: 5%; 
+    padding-right: 5%; 
+    padding-top: 2%; 
+    padding-bottom: 2%;
+  }
+
+  #newpara{
+    margin-left: 10%;
+  }
+
+  #firstpara{
+    margin-left: 5%;
+  }
+
+  #secondpara{
+    margin-left: 8%;
+  }
+
+  #fourthpara{
+    margin-left: 5%;
+  }
+  
+  #fifthpara{
+    margin-left: 8%;
+  }
+
+  #sixthpara{
+    margin-left: 10%;
+  }
+
+  #sevenpara{
+    margin-left: 10%;
+  }
+
+  #eightpara{
+    margin-left: 15%;
+  }
+
+  #ninepara{
+    margin-left: 15%;
+  }
+
+  .applink2{
+    margin-left: 40%; 
+    margin-top: 5%;
+  }
+
+  .fastimg{
+    width: 1600px; 
+    height: 300px; 
+  }
